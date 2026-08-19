@@ -1,0 +1,6 @@
+{
+  "name": "Equity Research Copilot",
+  "description": "AI-powered equity research platform to ingest financial statements & qualitative reports, synthesize cross-document insights, calculate derived metrics, track real-time news sentiment, and generate investment theses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
